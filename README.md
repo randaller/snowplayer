@@ -174,4 +174,5 @@ Volume -5
 For a long time wanted a player to solve the problem of receiving streaming permanently without having to worry about reconnecting. I even made some from Windows Media Control in VB6, and Adobe Flash Player, but always Stop randomly, having to restart the software to be reactivated. I am software developer for automation radio broadcasts, in addition to music, other information is sending in Metadata like artist, title and style. My clients and their listeners always having the problem to restart the streaming player when it's stop. Now I will recommend using Snowplayer as this proved to be the best when it receives the streaming. Snowplayer works so fine that there is no other like it. I have a lot of experience in developing automation software for radio and I say that snowplayer receive the stream so fast and so easy that you can have your favorite radio always on, even when the laptop is turned immediately to listen to music without worrying to reconnect even when for a moment suspend Internet service to close and open the lid.
 
 ### Thank you for being with us all these long years.
+
 ### 2007-2019
