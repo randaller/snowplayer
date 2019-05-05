@@ -1,9 +1,9 @@
 # Snow Player
 
-'''Overview'''
+```Overview```
 Snow Player is a tiny, fast, stable, reliable, and completely freeware MediaPlayer. Based on the old-school software standarts, it plays all common well-known audio and video formats, such as wav, wma, mp3, mp4, mod, ogg, aiff, mid, avi, mkv, mpeg, 3gp, flv video and others, Internet Radio streams playback, built-in scripting interpreter giving to you complete control under player, built-in audio Grabber allows you to record up to two hours in one click, cd burner plugin to burn your music to a cd-r and bring to car audio, internal ID3v1 tags editor, CUE sheet supported (displays correct track info and rewind/ff using .cue file), compatible with any remote IR control device using emulated winamp api and 3rd party software, freeform and small skins, interesting plugins strongly extends functionality, and many other addictive features. Easily runs from usb pendrive, sd card, or directly from cd/dvd/brd (embeddable). Fully portable, does not requires any installation.
 
-'''Features'''
+```Features```
 Freeware
 Small sized
 Portable, no installation required
