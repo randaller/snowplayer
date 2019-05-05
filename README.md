@@ -46,7 +46,7 @@ Automatically serve and playback inserted CD/USB
 ### Minimal system requirements
 
 ```
-Windows (x86/x64): XP | 2003 | Vista | 2008 | 7 | 2008R2 | 8 | 2012 | 8.1 | 2012R2 | 10
+Windows (x86/x64): XP | 2003 | Vista | 2008 | 7 | 2008R2 | 8 | 2012 | 8.1 | 2012R2 | 10 | 2016
 CPU: 133+ MHz or better
 RAM: 32+ Mb or more
 Sound card: DirectX 7+ compatible sound card
